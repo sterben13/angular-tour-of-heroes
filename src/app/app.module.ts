@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
+import { HeroDetailComponentComponent } from './components/hero-detail-component/hero-detail-component.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    HeroDetailComponentComponent
   ],
   imports: [
     BrowserModule,
