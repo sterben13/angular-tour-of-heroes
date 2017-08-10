@@ -1,3 +1,7 @@
+
+#### Este proyecto es realizado a partir del tutorial que ofrece Angular en introducción con el framework.
+
+#### El resultado lo puedes visualizar el la siguiente dirección: (http://hero.back4app.io/dashboard)
 # Hero
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
